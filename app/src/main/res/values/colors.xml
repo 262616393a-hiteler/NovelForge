@@ -1,0 +1,28 @@
+<resources>
+    <color name="primary_color">#4F46E5</color>
+    <color name="primary_dark">#4338CA</color>
+    <color name="primary_deep">#1E1B4B</color>
+    <color name="secondary_color">#10B981</color>
+    <color name="accent_color">#F59E0B</color>
+    <color name="accent_deep">#B45309</color>
+    <color name="background">#F4F5FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="primary_text">#1E2233</color>
+    <color name="secondary_text">#6B7280</color>
+    <color name="hint_text">#9CA3AF</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="on_primary_text">#FFFFFF</color>
+    <color name="novel_text">#232634</color>
+    <color name="novel_bg">#FAFBFE</color>
+    <color name="divider">#E7E9F0</color>
+    <color name="progress_bg">#E5E7EB</color>
+    <color name="edittext_bg">#FFFFFF</color>
+    <color name="edittext_border">#D7DBE6</color>
+    <color name="success">#10B981</color>
+    <color name="error">#EF4444</color>
+
+    <color name="grad_start">#4F46E5</color>
+    <color name="grad_mid">#6D28D9</color>
+    <color name="grad_end">#1E1B4B</color>
+    <color name="surface_soft">#F7F8FC</color>
+</resources>

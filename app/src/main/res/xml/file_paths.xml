@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="novels" path="novels/" />
+    <external-files-path name="external_novels" path="novels/" />
+    <cache-path name="cache" path="" />
+</paths>

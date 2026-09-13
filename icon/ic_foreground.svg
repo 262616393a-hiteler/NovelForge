@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="432" viewBox="0 0 432 432">
+  <!-- sparkles -->
+  <g fill="#F5B94A">
+    <path d="M150,116 l9,27 27,9 -27,9 -9,27 -9,-27 -27,-9 27,-9 z"/>
+    <circle cx="300" cy="106" r="8"/>
+    <circle cx="150" cy="80" r="5"/>
+  </g>
+
+  <!-- quill nib -->
+  <path d="M216,244 L192,166 Q216,126 241,162 Z" fill="#F5B94A"/>
+  <path d="M216,244 L207,170" stroke="#B4892A" stroke-width="4" fill="none"/>
+  <circle cx="218" cy="192" r="10" fill="#FFF3CE"/>
+
+  <!-- open book -->
+  <path d="M216,250 L150,240 C141,238 134,244 134,254 L134,330 C134,340 141,344 150,342 L216,350 Z" fill="#FFFFFF"/>
+  <path d="M216,250 L282,240 C291,238 298,244 298,254 L298,330 C298,340 291,344 282,342 L216,350 Z" fill="#FFFFFF"/>
+
+  <!-- page lines -->
+  <g stroke="#C7CDE0" stroke-width="3" fill="none">
+    <path d="M152,262 L204,264"/>
+    <path d="M150,282 L202,284"/>
+    <path d="M150,302 L202,304"/>
+    <path d="M228,264 L280,262"/>
+    <path d="M230,284 L282,282"/>
+    <path d="M230,304 L282,302"/>
+  </g>
+
+  <!-- gold bookmark ribbon -->
+  <path d="M208,254 L208,304 L216,296 L224,304 L224,254 Z" fill="#F5B94A"/>
+
+  <!-- spine -->
+  <path d="M216,250 L216,350" stroke="#F5B94A" stroke-width="4" fill="none"/>
+
+  <!-- soft shadow -->
+  <path d="M136,348 L296,348" stroke="#00000022" stroke-width="6" fill="none"/>
+</svg>
